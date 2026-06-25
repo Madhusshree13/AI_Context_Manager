@@ -1,4 +1,4 @@
-# Zap ⚡ — AI Context Manager
+# AI Context Manager
 
 > 🚧 **Work in progress — not yet buildable.** The core Rust source (`src/`) is not
 > published in this repository yet, so `./install.sh` / `cargo build` will fail until it
@@ -45,8 +45,6 @@ reaches the agent — **transparently, with zero workflow changes**.
 ## Install
 
 > Note: requires the Rust source to be present in the repo (see the WIP notice above).
-
-Requires [Rust / cargo](https://rustup.rs).
 
 ```bash
 git clone https://github.com/Madhusshree13/AI_Context_Manager.git
@@ -102,9 +100,9 @@ marketing/                           showcase HTML/SVG assets
 CONTRIBUTING.md                      dev loop, filter authoring, code style
 Project status
 Area	State
-Hooks (per-agent delegates)	✅ Present
-Build config (Cargo.toml, build.rs, install.sh)	✅ Present
-Marketing assets	✅ Present
+Hooks (per-agent delegates)	- Present
+Build config (Cargo.toml, build.rs, install.sh)	- Present
+Marketing assets	- Present
 Core Rust source (src/)	❌ Not yet published — required to build
 Contributing
 
