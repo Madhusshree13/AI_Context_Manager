@@ -1,4 +1,4 @@
-# AI Context Manager
+# AI Context Manager - AICM
 
 > 🚧 **Work in progress — not yet buildable.** The core Rust source (`src/`) is not
 > published in this repository yet, so `./install.sh` / `cargo build` will fail until it
